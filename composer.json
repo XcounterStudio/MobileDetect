@@ -6,6 +6,7 @@
 	},
 	"name": "xcounter-studio/mobile-detect",
 	"type": "yii2-extension",
+	"license": "GPL-3.0+",
 	"require": {
 		"yiisoft/yii2": "~2.0.14",
 		"mobiledetect/mobiledetectlib": "~2.8"
