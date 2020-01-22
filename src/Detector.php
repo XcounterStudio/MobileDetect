@@ -19,6 +19,7 @@ class Detector extends Component
     public function init()
     {
         $this->mobileDetectLib = new MobileDetectBundle();
+
         parent::init();
     }
 }
